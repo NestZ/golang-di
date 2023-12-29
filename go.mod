@@ -1,4 +1,4 @@
-module git.wndv.co/thaneat.s/golang-di
+module github.com/NestZ/golang-di
 
 go 1.21.5
 

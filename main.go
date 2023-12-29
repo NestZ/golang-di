@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"git.wndv.co/thaneat.s/golang-di/example"
+	"github.com/NestZ/golang-di/example"
 )
 
 func main() {
